@@ -1,0 +1,887 @@
+find:9
+player:9
+left:9
+amazing:9
+lady:9
+along:9
+id:9
+yes:9
+cant:9
+right:9
+sound:10
+also:10
+god:10
+home:10
+party:10
+awesome:10
+kind:10
+real:10
+use:10
+tv:10
+changed:10
+younger:10
+bringing:10
+knew:10
+karen:10
+didnt:11
+feeling:11
+place:11
+born:11
+house:11
+house	song:9
+late:11
+remind:11
+going:11
+name:11
+want:11
+big:11
+youth:11
+thats:11
+lost:11
+hit:11
+went:11
+night:11
+nice:11
+older:11
+summer:11
+summer	song:9
+around:12
+grew:12
+people:12
+think:12
+thing:12
+fantastic:12
+forever:12
+gone:12
+give:12
+give	song:10
+classic:12
+classic	back:9
+lyric:12
+dancing:12
+car:12
+car	song:9
+th:12
+th	song:10
+age:13
+tune:13
+last:13
+last	song:10
+even:13
+rip:14
+later:14
+later	song:10
+word:14
+word	song:10
+hearing:14
+missed:14
+made:14
+made	song:9
+boy:14
+teen:14
+growing:14
+yesterday:14
+yesterday	back:9
+yesterday	song:11
+brought:14
+brought	back:9
+brought	memory:9
+brought	song:9
+man:14
+man	song:9
+wow:14
+sister:14
+sister	song:11
+country:15
+country	music:9
+country	love:9
+country	song:11
+see:15
+eye:15
+eye	song:12
+tear:15
+tear	song:10
+dont:15
+dont	song:11
+sang:15
+brother:15
+brother	song:9
+past:15
+past	song:12
+listened:16
+listened	song:9
+father:16
+father	song:11
+live:16
+live	back:10
+live	song:11
+world:16
+world	song:12
+died:16
+mother:16
+mother	song:11
+nostalgia:16
+nostalgia	song:10
+oh:17
+reef:18
+reef	memory:9
+jim	reef	memory:9
+reef	jim:16
+teenager:18
+teenager	song:11
+nostalgic:18
+parent:18
+parent	song:10
+get:18
+get	song:11
+feel:18
+feel	song:11
+early:19
+early	back:10
+heart:19
+heart	song:12
+dance:19
+dance	song:12
+way:19
+way	song:9
+way	time:10
+lovely:19
+lovely	song:11
+sweet:20
+well:20
+well	song:14
+lot:20
+lot	back:13
+lot	back	song:10
+lot	back	memory:10
+lot	back	memory	song:9
+lot	memory:14
+lot	memory	song:12
+lot	song:15
+long:20
+long	time:10
+long	year:10
+long	year	song:9
+long	song:13
+know:20
+know	song:13
+friend:20
+friend	song:13
+got:21
+got	year:10
+got	song:14
+come:21
+come	song:11
+come	back:14
+come	memory:14
+come	memory	back:11
+since:21
+since	song:13
+cry:22
+cry	song:14
+high:22
+high	song:14
+high	song	school:12
+high	school:19
+singer:22
+singer	great:10
+singer	song:12
+girl:22
+girl	song:15
+playing:22
+playing	song:10
+playing	remember:10
+im:23
+im	memory:9
+im	song:14
+bring:23
+bring	memory:12
+bring	memory	back:12
+bring	song:13
+back	bring	song:13
+bring	back:22
+sad:23
+sad	back:9
+sad	make:9
+sad	song:9
+jim:24
+jim	memory:12
+away:24
+away	passed:13
+away	song:14
+could:25
+could	year:9
+could	song:12
+could	back:14
+could	back	wish:9
+could	wish:15
+child:26
+child	song:15
+record:26
+record	remember:9
+record	song:11
+today:26
+today	time:9
+today	back:10
+today	song:14
+wish:26
+wish	song:10
+wish	back:13
+singing:27
+singing	remember:9
+singing	year:11
+singing	year	song:9
+singing	song:19
+mom:27
+mom	dad:9
+mom	memory:10
+mom	song:14
+ever:28
+ever	year:9
+ever	time:9
+ever	best:9
+ever	song:20
+little:28
+little	remember:9
+little	remember	song:9
+little	back:9
+little	song:22
+came:28
+came	back:12
+came	back	song:10
+came	year:12
+came	year	song:11
+came	song:19
+would:28
+would	sing:9
+would	back:12
+would	song:16
+passed:30
+passed	year:12
+passed	song:18
+kid:31
+kid	song:17
+wonderful:31
+wonderful	back:13
+wonderful	memory:16
+wonderful	song:18
+mum:32
+mum	dad:11
+mum	song:18
+ago:32
+ago	song:18
+ago	song	year:16
+ago	year:26
+go:32
+go	memory:11
+go	song:13
+go	time:14
+go	time	back:9
+go	back:21
+thanks:32
+thanks	back:13
+thanks	back	song:10
+thanks	memory:15
+thanks	memory	song:9
+thanks	song:23
+really:32
+really	time:10
+really	year:13
+really	year	song:9
+really	song:22
+favorite:33
+favorite	memory:10
+favorite	back:10
+favorite	one:10
+favorite	song:23
+play:34
+play	used:11
+play	song:20
+radio:34
+radio	year:9
+radio	remember:10
+radio	back:11
+radio	song:17
+happy:35
+happy	day:9
+happy	back:16
+happy	back	memory:9
+happy	back	song:10
+happy	song:19
+happy	memory:19
+life:37
+life	day:9
+life	memory:10
+life	music:10
+life	love:10
+life	year:11
+life	time:12
+life	back:13
+life	song:17
+best:38
+best	one:9
+best	music:9
+best	love:9
+best	time:10
+best	memory:15
+best	memory	back:10
+best	back:18
+best	song:19
+sing:39
+sing	memory:9
+sing	love:9
+sing	dad:9
+sing	year:9
+sing	back:10
+sing	used:16
+sing	song:25
+thank:39
+thank	remember:10
+thank	back:12
+thank	memory:16
+thank	song:16
+played:40
+played	year:9
+played	great:9
+played	time:11
+played	remember:11
+played	remember	song:9
+played	memory:14
+played	memory	song:9
+played	memory	back:9
+played	back:17
+played	back	song:9
+played	song:25
+hear:43
+hear	memory:9
+hear	year:9
+hear	love:9
+hear	time:14
+hear	time	song:10
+hear	back:15
+hear	back	song:12
+hear	song:31
+take:43
+take	time:9
+take	year:11
+take	year	back:10
+take	song:19
+take	song	back:15
+take	back:38
+young:43
+young	year:10
+young	love:11
+young	remember:16
+young	remember	song:11
+young	song:27
+listen:43
+listen	year:13
+listen	year	song:11
+listen	time:15
+listen	time	song:14
+listen	song:34
+every:44
+every	day:9
+every	back:10
+every	memory:12
+every	memory	song:10
+every	time:18
+every	time	song:12
+every	song:31
+heard:44
+heard	old:9
+heard	remember:10
+heard	memory:11
+heard	memory	song:10
+heard	back:11
+heard	back	song:9
+heard	still:12
+heard	still	song:10
+heard	year:16
+heard	year	song:13
+heard	first:16
+heard	first	song:10
+heard	first	time:10
+heard	time:17
+heard	time	song:13
+heard	song:33
+make:45
+make	time:12
+make	back:13
+make	love:13
+make	memory:13
+make	song:25
+never:46
+never	great:9
+never	old:11
+never	day:11
+never	memory:11
+never	music:11
+never	time:14
+never	love:16
+never	love	song:9
+never	year:16
+never	year	song:12
+never	back:17
+never	back	song:10
+never	song:27
+voice:46
+voice	still:9
+voice	year:9
+voice	love:9
+voice	memory:10
+voice	back:13
+voice	remember:14
+voice	beautiful:14
+voice	great:15
+voice	song:19
+used:46
+used	year:9
+used	back:11
+used	memory:11
+used	time:14
+used	song:31
+school:46
+school	love:9
+school	day:9
+school	year:10
+school	year	song:9
+school	time:10
+school	back:14
+school	song:28
+one:49
+one	remember:10
+one	day:11
+one	day	song:10
+one	time:11
+one	time	song:9
+one	love:12
+one	love	song:9
+one	back:14
+one	back	memory:10
+one	back	memory	song:9
+one	back	song:11
+one	year:14
+one	year	song:13
+one	memory:18
+one	memory	song:16
+one	song:36
+like:50
+like	remember:10
+like	good:10
+like	memory:10
+like	old:11
+like	old	year:10
+like	time:11
+like	year:20
+like	year	back:13
+like	year	back	song:10
+like	year	song:16
+like	back:22
+like	back	song:16
+like	song:35
+dad:50
+dad	back:9
+dad	much:9
+dad	always:10
+dad	memory:11
+dad	miss:12
+dad	year:12
+dad	year	song:10
+dad	reminds:12
+dad	remember:13
+dad	remember	song:9
+dad	song:30
+loved:50
+loved	great:9
+loved	music:9
+loved	much:9
+loved	back:11
+loved	year:11
+loved	memory:11
+loved	day:13
+loved	day	song:9
+loved	song:31
+much:52
+much	love:12
+much	love	song:9
+much	reminds:12
+much	memory:14
+much	memory	song:10
+much	back:17
+much	year:17
+much	year	song:10
+much	miss:18
+much	miss	song:9
+much	song:30
+listening:57
+listening	brings:9
+listening	old:10
+listening	music:12
+listening	remember:13
+listening	remember	song:9
+listening	year:13
+listening	year	song:9
+listening	back:22
+listening	back	memory:11
+listening	back	song:12
+listening	memory:23
+listening	memory	song:13
+listening	song:30
+many:60
+many	beautiful:9
+many	beautiful	song:9
+many	music:10
+many	time:14
+many	time	memory:9
+many	time	song:11
+many	love:15
+many	love	memory:9
+many	love	song:11
+many	year:15
+many	year	song:10
+many	brings:17
+many	brings	song:11
+many	brings	song	back:9
+memory	many	brings	song	back:9
+many	brings	song	memory:11
+many	brings	back:15
+memory	many	brings	back:15
+many	brings	memory:17
+many	back:27
+many	back	song:15
+many	back	song	memory:14
+many	back	memory:22
+many	song:39
+many	song	memory:28
+many	memory:42
+first:60
+first	music:10
+first	old:11
+first	love:13
+first	love	song:9
+first	back:15
+first	back	song:13
+first	remember:19
+first	remember	song:10
+first	time:19
+first	time	song:13
+first	year:20
+first	year	song:13
+first	memory:20
+first	memory	song:14
+first	song:38
+always:61
+always	reminds:9
+always	miss:9
+always	year:9
+always	music:9
+always	remember:12
+always	time:12
+always	memory:15
+always	memory	song:9
+always	memory	love:9
+always	back:17
+always	back	song:10
+always	love:17
+always	love	back:9
+always	love	song:11
+always	song:37
+still:62
+still	miss:9
+still	old:9
+still	day:9
+still	time:13
+still	time	song:12
+still	remember:15
+still	remember	song:13
+still	memory:19
+still	memory	back:9
+still	memory	song:13
+still	back:19
+still	back	song:13
+still	love:19
+still	love	year:9
+still	love	song:14
+still	year:24
+still	year	song:18
+still	song:39
+good:67
+good	remember:9
+good	love:10
+good	love	back:9
+good	love	back	memory:9
+good	love	song:9
+memory	good	love	song:9
+good	love	memory:10
+good	music:11
+good	music	memory:9
+good	year:17
+good	year	back:11
+good	time:19
+good	time	song:10
+good	time	back:12
+good	brings:19
+good	brings	song:12
+good	brings	song	back:9
+memory	good	brings	song	back:9
+good	brings	song	memory:12
+good	brings	back:16
+good	brings	back	memory:14
+good	brings	memory:17
+good	day:20
+good	day	back:10
+good	day	song:11
+good	day	old:15
+good	old:23
+good	old	memory:9
+good	old	back:10
+good	old	song:10
+good	memory:34
+good	memory	back:21
+good	memory	back	song:15
+good	memory	song:22
+good	song:35
+good	back:35
+good	back	song:20
+childhood:70
+childhood	miss:9
+childhood	beautiful:9
+childhood	year:9
+childhood	brings:11
+childhood	brings	song:9
+childhood	brings	back:9
+childhood	love:11
+childhood	back:26
+childhood	back	memory:14
+childhood	back	memory	song:10
+childhood	back	song:18
+childhood	memory:28
+childhood	memory	song:14
+childhood	song:35
+miss:71
+miss	reminds:10
+miss	time:11
+miss	beautiful:11
+miss	remember:11
+miss	year:13
+miss	love:14
+miss	love	song:9
+miss	day:15
+miss	day	song:9
+miss	memory:18
+miss	memory	back:11
+miss	back:20
+miss	back	song:9
+miss	song:35
+reminds:73
+reminds	time:10
+reminds	year:14
+reminds	year	song:10
+reminds	day:16
+reminds	day	song:10
+reminds	love:20
+reminds	love	song:13
+reminds	song:46
+beautiful:74
+beautiful	brings:11
+beautiful	brings	song:9
+beautiful	brings	memory:9
+beautiful	remember:11
+beautiful	love:12
+beautiful	love	song:10
+beautiful	time:14
+beautiful	time	song:10
+beautiful	year:14
+beautiful	year	song:13
+beautiful	back:21
+beautiful	back	memory:12
+beautiful	back	memory	song:11
+beautiful	back	song:17
+beautiful	memory:29
+beautiful	memory	song:25
+beautiful	song:54
+music:87
+music	day:12
+music	brings:13
+music	brings	back:10
+music	brings	back	memory:9
+music	brings	memory:11
+music	old:14
+music	great:17
+music	great	memory:9
+music	remember:17
+music	remember	song:12
+music	time:19
+music	year:20
+music	love:25
+music	love	song:11
+music	back:30
+music	back	song:12
+music	back	memory:13
+music	memory:32
+music	memory	song:11
+music	song:32
+great:90
+great	day:10
+great	old:11
+great	love:11
+great	love	song:9
+great	remember:12
+great	year:15
+great	year	song:10
+great	brings:15
+great	brings	song:9
+back	great	brings	song:9
+memory	great	brings	song:9
+back	memory	great	brings	song:9
+great	brings	memory:14
+back	great	brings	memory:14
+great	brings	back:15
+great	time:22
+great	time	back:10
+great	time	song:12
+great	back:31
+great	back	memory:17
+great	back	memory	song:11
+great	back	song:17
+great	memory:36
+great	memory	song:21
+great	song:55
+brings:98
+brings	old:14
+brings	old	memory:10
+brings	old	memory	back:9
+brings	old	song:10
+brings	old	song	back:10
+brings	old	year:11
+brings	old	year	back:10
+brings	old	back:13
+brings	time:15
+brings	time	back:12
+brings	time	back	memory:11
+brings	time	memory:13
+brings	love:21
+brings	love	song:15
+brings	love	song	memory:13
+brings	love	song	memory	back:12
+brings	love	song	back:14
+brings	love	back:18
+brings	love	memory:18
+brings	love	memory	back:16
+brings	year:23
+brings	year	memory:14
+brings	year	memory	song:10
+brings	year	memory	song	back:9
+brings	year	memory	back:12
+brings	year	song:15
+brings	year	song	back:14
+brings	year	back:21
+brings	song:56
+brings	song	memory:46
+brings	song	memory	back:40
+brings	song	back:50
+brings	memory:79
+brings	memory	back:70
+brings	back:86
+day:101
+day	love:13
+day	love	song:9
+day	remember:17
+day	remember	song:10
+day	year:19
+day	year	back:9
+day	year	old:12
+day	year	old	song:10
+day	year	song:15
+day	time:20
+day	time	song:17
+day	memory:24
+day	memory	back:11
+day	memory	song:17
+day	old:32
+day	old	back:9
+day	old	song:18
+day	back:40
+day	back	song:21
+day	song:56
+old:104
+old	time:16
+old	time	song:11
+old	time	year:12
+old	love:22
+old	love	year:13
+old	love	year	song:11
+old	love	song:18
+old	remember:23
+old	remember	song:14
+old	remember	song	year:11
+old	remember	year:15
+old	memory:27
+old	memory	back:13
+old	memory	back	year:9
+old	memory	back	song:10
+old	memory	song:15
+old	memory	song	year:11
+old	memory	year:16
+old	back:31
+old	back	song:18
+old	back	song	year:12
+old	back	year:19
+old	year:55
+old	year	song:37
+old	song:59
+remember:120
+remember	love:19
+remember	love	song:16
+remember	back:22
+remember	back	memory:13
+remember	back	memory	song:11
+remember	back	song:17
+remember	memory:23
+remember	memory	song:16
+remember	time:25
+remember	time	song:16
+remember	year:31
+remember	year	song:24
+remember	song:74
+love:125
+love	time:24
+love	time	song:18
+love	year:33
+love	year	back:10
+love	year	song:25
+love	back:38
+love	back	memory:24
+love	back	memory	song:18
+love	back	song:28
+love	memory:41
+love	memory	song:29
+love	song:84
+time:146
+time	year:31
+time	year	back:9
+time	year	memory:10
+time	year	song:19
+time	memory:34
+time	memory	back:19
+time	memory	back	song:12
+time	memory	song:21
+time	back:54
+time	back	song:26
+time	song:76
+year:152
+year	memory:38
+year	memory	back:19
+year	memory	back	song:15
+year	memory	song:26
+year	back:54
+year	back	song:28
+year	song:93
+memory:238
+memory	back:117
+memory	back	song:66
+memory	song:125
+back:248
+back	song:124
+song:393
