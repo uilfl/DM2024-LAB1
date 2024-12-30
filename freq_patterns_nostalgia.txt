@@ -84,17 +84,17 @@ yesterday:14
 yesterday	back:9
 yesterday	song:11
 brought:14
-brought	back:9
-brought	memory:9
 brought	song:9
+brought	memory:9
+brought	back:9
 man:14
 man	song:9
 wow:14
 sister:14
 sister	song:11
 country:15
-country	music:9
 country	love:9
+country	music:9
 country	song:11
 see:15
 eye:15
@@ -159,9 +159,9 @@ lot	memory:14
 lot	memory	song:12
 lot	song:15
 long:20
-long	time:10
 long	year:10
 long	year	song:9
+long	time:10
 long	song:13
 know:20
 know	song:13
@@ -201,9 +201,9 @@ bring	song:13
 back	bring	song:13
 bring	back:22
 sad:23
+sad	song:9
 sad	back:9
 sad	make:9
-sad	song:9
 jim:24
 jim	memory:12
 away:24
@@ -237,8 +237,8 @@ mom	dad:9
 mom	memory:10
 mom	song:14
 ever:28
-ever	year:9
 ever	time:9
+ever	year:9
 ever	best:9
 ever	song:20
 little:28
@@ -290,9 +290,9 @@ really	year:13
 really	year	song:9
 really	song:22
 favorite:33
-favorite	memory:10
-favorite	back:10
 favorite	one:10
+favorite	back:10
+favorite	memory:10
 favorite	song:23
 play:34
 play	used:11
@@ -307,8 +307,8 @@ happy	day:9
 happy	back:16
 happy	back	memory:9
 happy	back	song:10
-happy	song:19
 happy	memory:19
+happy	song:19
 life:37
 life	day:9
 life	memory:10
@@ -319,9 +319,9 @@ life	time:12
 life	back:13
 life	song:17
 best:38
+best	love:9
 best	one:9
 best	music:9
-best	love:9
 best	time:10
 best	memory:15
 best	memory	back:10
@@ -329,17 +329,17 @@ best	back:18
 best	song:19
 sing:39
 sing	memory:9
-sing	love:9
 sing	dad:9
 sing	year:9
+sing	love:9
 sing	back:10
 sing	used:16
 sing	song:25
 thank:39
 thank	remember:10
 thank	back:12
-thank	memory:16
 thank	song:16
+thank	memory:16
 played:40
 played	year:9
 played	great:9
@@ -354,8 +354,8 @@ played	back	song:9
 played	song:25
 hear:43
 hear	memory:9
-hear	year:9
 hear	love:9
+hear	year:9
 hear	time:14
 hear	time	song:10
 hear	back:15
@@ -391,10 +391,10 @@ every	song:31
 heard:44
 heard	old:9
 heard	remember:10
-heard	memory:11
-heard	memory	song:10
 heard	back:11
 heard	back	song:9
+heard	memory:11
+heard	memory	song:10
 heard	still:12
 heard	still	song:10
 heard	year:16
@@ -407,28 +407,28 @@ heard	time	song:13
 heard	song:33
 make:45
 make	time:12
-make	back:13
 make	love:13
 make	memory:13
+make	back:13
 make	song:25
 never:46
 never	great:9
+never	music:11
+never	memory:11
 never	old:11
 never	day:11
-never	memory:11
-never	music:11
 never	time:14
-never	love:16
-never	love	song:9
 never	year:16
 never	year	song:12
+never	love:16
+never	love	song:9
 never	back:17
 never	back	song:10
 never	song:27
 voice:46
-voice	still:9
-voice	year:9
 voice	love:9
+voice	year:9
+voice	still:9
 voice	memory:10
 voice	back:13
 voice	remember:14
@@ -442,8 +442,8 @@ used	memory:11
 used	time:14
 used	song:31
 school:46
-school	love:9
 school	day:9
+school	love:9
 school	year:10
 school	year	song:9
 school	time:10
@@ -451,28 +451,28 @@ school	back:14
 school	song:28
 one:49
 one	remember:10
-one	day:11
-one	day	song:10
 one	time:11
 one	time	song:9
+one	day:11
+one	day	song:10
 one	love:12
 one	love	song:9
+one	year:14
+one	year	song:13
 one	back:14
 one	back	memory:10
 one	back	memory	song:9
 one	back	song:11
-one	year:14
-one	year	song:13
 one	memory:18
 one	memory	song:16
 one	song:36
 like:50
-like	remember:10
-like	good:10
 like	memory:10
+like	good:10
+like	remember:10
+like	time:11
 like	old:11
 like	old	year:10
-like	time:11
 like	year:20
 like	year	back:13
 like	year	back	song:10
@@ -485,27 +485,27 @@ dad	back:9
 dad	much:9
 dad	always:10
 dad	memory:11
-dad	miss:12
 dad	year:12
 dad	year	song:10
 dad	reminds:12
+dad	miss:12
 dad	remember:13
 dad	remember	song:9
 dad	song:30
 loved:50
-loved	great:9
 loved	music:9
+loved	great:9
 loved	much:9
 loved	back:11
-loved	year:11
 loved	memory:11
+loved	year:11
 loved	day:13
 loved	day	song:9
 loved	song:31
 much:52
+much	reminds:12
 much	love:12
 much	love	song:9
-much	reminds:12
 much	memory:14
 much	memory	song:10
 much	back:17
@@ -535,11 +535,11 @@ many	music:10
 many	time:14
 many	time	memory:9
 many	time	song:11
+many	year:15
+many	year	song:10
 many	love:15
 many	love	memory:9
 many	love	song:11
-many	year:15
-many	year	song:10
 many	brings:17
 many	brings	song:11
 many	brings	song	back:9
@@ -562,22 +562,22 @@ first	love:13
 first	love	song:9
 first	back:15
 first	back	song:13
-first	remember:19
-first	remember	song:10
 first	time:19
 first	time	song:13
-first	year:20
-first	year	song:13
+first	remember:19
+first	remember	song:10
 first	memory:20
 first	memory	song:14
+first	year:20
+first	year	song:13
 first	song:38
 always:61
-always	reminds:9
+always	music:9
 always	miss:9
 always	year:9
-always	music:9
-always	remember:12
+always	reminds:9
 always	time:12
+always	remember:12
 always	memory:15
 always	memory	song:9
 always	memory	love:9
@@ -595,14 +595,14 @@ still	time:13
 still	time	song:12
 still	remember:15
 still	remember	song:13
-still	memory:19
-still	memory	back:9
-still	memory	song:13
-still	back:19
-still	back	song:13
 still	love:19
 still	love	year:9
 still	love	song:14
+still	back:19
+still	back	song:13
+still	memory:19
+still	memory	back:9
+still	memory	song:13
 still	year:24
 still	year	song:18
 still	song:39
@@ -618,9 +618,6 @@ good	music:11
 good	music	memory:9
 good	year:17
 good	year	back:11
-good	time:19
-good	time	song:10
-good	time	back:12
 good	brings:19
 good	brings	song:12
 good	brings	song	back:9
@@ -629,6 +626,9 @@ good	brings	song	memory:12
 good	brings	back:16
 good	brings	back	memory:14
 good	brings	memory:17
+good	time:19
+good	time	song:10
+good	time	back:12
 good	day:20
 good	day	back:10
 good	day	song:11
@@ -641,17 +641,17 @@ good	memory:34
 good	memory	back:21
 good	memory	back	song:15
 good	memory	song:22
-good	song:35
 good	back:35
 good	back	song:20
+good	song:35
 childhood:70
-childhood	miss:9
-childhood	beautiful:9
 childhood	year:9
+childhood	beautiful:9
+childhood	miss:9
+childhood	love:11
 childhood	brings:11
 childhood	brings	song:9
 childhood	brings	back:9
-childhood	love:11
 childhood	back:26
 childhood	back	memory:14
 childhood	back	memory	song:10
@@ -661,9 +661,9 @@ childhood	memory	song:14
 childhood	song:35
 miss:71
 miss	reminds:10
-miss	time:11
 miss	beautiful:11
 miss	remember:11
+miss	time:11
 miss	year:13
 miss	love:14
 miss	love	song:9
@@ -708,10 +708,10 @@ music	brings	back:10
 music	brings	back	memory:9
 music	brings	memory:11
 music	old:14
-music	great:17
-music	great	memory:9
 music	remember:17
 music	remember	song:12
+music	great:17
+music	great	memory:9
 music	time:19
 music	year:20
 music	love:25
@@ -719,17 +719,15 @@ music	love	song:11
 music	back:30
 music	back	song:12
 music	back	memory:13
+music	song:32
 music	memory:32
 music	memory	song:11
-music	song:32
 great:90
 great	day:10
-great	old:11
 great	love:11
 great	love	song:9
+great	old:11
 great	remember:12
-great	year:15
-great	year	song:10
 great	brings:15
 great	brings	song:9
 back	great	brings	song:9
@@ -738,6 +736,8 @@ back	memory	great	brings	song:9
 great	brings	memory:14
 back	great	brings	memory:14
 great	brings	back:15
+great	year:15
+great	year	song:10
 great	time:22
 great	time	back:10
 great	time	song:12

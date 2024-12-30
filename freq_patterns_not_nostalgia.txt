@@ -82,7 +82,6 @@ generation	song:9
 new:14
 word:14
 word	song:10
-wow:14
 pop:14
 kind:14
 kind	song:9
@@ -93,6 +92,7 @@ forever:15
 ive:15
 ive	song:9
 live:15
+wow:15
 friend:15
 anymore:15
 without:15
@@ -135,11 +135,11 @@ every:21
 every	song:11
 loved:21
 loved	song:11
-amazing:21
-amazing	song:10
 first:22
 first	song:11
 first	time:12
+amazing:22
+amazing	song:11
 god:23
 go:24
 go	song:13
@@ -175,8 +175,8 @@ life	song:13
 sound:28
 favorite:29
 favorite	time:9
-favorite	song:13
 favorite	one:13
+favorite	song:13
 version:30
 version	one:9
 version	song:16
@@ -184,9 +184,6 @@ world:30
 world	song:13
 come:31
 come	one:10
-heard:31
-heard	love:10
-heard	song:18
 people:31
 people	music:10
 people	song:12
@@ -196,6 +193,9 @@ listening	song:15
 man:32
 man	love:10
 man	song:15
+heard:32
+heard	love:10
+heard	song:19
 video:32
 video	song:12
 today:33
@@ -258,10 +258,10 @@ think	like:9
 think	music:10
 think	song:22
 singer:46
-singer	music:9
 singer	voice:9
-singer	love:11
+singer	music:9
 singer	great:11
+singer	love:11
 singer	song:12
 ever:46
 ever	music:9
@@ -269,8 +269,8 @@ ever	one:13
 ever	song:20
 really:48
 really	time:9
-really	one:11
 really	like:11
+really	one:11
 really	love:15
 really	love	song:9
 really	song:23
@@ -288,15 +288,15 @@ always	love:13
 always	song:24
 know:52
 know	song:23
-never:53
+never:54
 never	like:9
-never	voice:9
+never	voice:10
 never	music:11
 never	love:14
-never	song:25
+never	song:26
 time:76
-time	love:10
 time	like:10
+time	love:10
 time	music:12
 time	one:18
 time	song:33
@@ -316,12 +316,12 @@ great	love:16
 great	one:19
 great	one	song:10
 great	song:37
-voice:86
+voice:87
 voice	love:10
 voice	music:16
 voice	like:16
 voice	one:17
-voice	song:20
+voice	song:21
 like:102
 like	love:17
 like	love	song:9
@@ -340,4 +340,4 @@ music	love	song:12
 music	song:33
 love:133
 love	song:73
-song:301
+song:302
